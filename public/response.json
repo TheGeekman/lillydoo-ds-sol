@@ -1,0 +1,431 @@
+{
+    "subscriptionProducts": [
+        {
+            "productTypeName": "diapers",
+            "isSelectedByDefault": true,
+            "products": [
+                {
+                    "quantity": 6,
+                    "isDefault": false,
+                    "quantityPerPack": 246,
+                    "isDefaultSize": false,
+                    "variants": [
+                        {
+                            "sku": "E121110-01",
+                            "sizeNumber": 1,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 20,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G326110-18",
+                            "sizeNumber": 1,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 24,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 1,
+                    "weight": "2 bis 5 Kilo",
+                    "productType": "diapers"
+                },
+                {
+                    "quantity": 6,
+                    "isDefault": false,
+                    "quantityPerPack": 222,
+                    "isDefaultSize": false,
+                    "variants": [
+                        {
+                            "sku": "E121120-01",
+                            "sizeNumber": 2,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 22,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G326120-18",
+                            "sizeNumber": 2,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 26,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 2,
+                    "weight": "4 bis 8 Kilo",
+                    "productType": "diapers"
+                },
+                {
+                    "quantity": 6,
+                    "isDefault": false,
+                    "quantityPerPack": 198,
+                    "isDefaultSize": false,
+                    "variants": [
+                        {
+                            "sku": "E121130-01",
+                            "sizeNumber": 3,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 25,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G326130-18",
+                            "sizeNumber": 3,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 30,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 3,
+                    "weight": "6 bis 10 Kilo",
+                    "productType": "diapers"
+                },
+                {
+                    "quantity": 6,
+                    "isDefault": true,
+                    "quantityPerPack": 174,
+                    "isDefaultSize": true,
+                    "variants": [
+                        {
+                            "sku": "E121140-01",
+                            "sizeNumber": 4,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 28,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G326140-18",
+                            "sizeNumber": 4,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 34,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 4,
+                    "weight": "9 bis 14 Kilo",
+                    "productType": "diapers"
+                },
+                {
+                    "quantity": 6,
+                    "isDefault": false,
+                    "quantityPerPack": 150,
+                    "isDefaultSize": false,
+                    "variants": [
+                        {
+                            "sku": "E121150-01",
+                            "sizeNumber": 5,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 33,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G326150-18",
+                            "sizeNumber": 5,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 39,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 5,
+                    "weight": "11 bis 16 Kilo",
+                    "productType": "diapers"
+                },
+                {
+                    "quantity": 6,
+                    "isDefault": false,
+                    "quantityPerPack": 138,
+                    "isDefaultSize": false,
+                    "variants": [
+                        {
+                            "sku": "E121160-01",
+                            "sizeNumber": 6,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 36,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G326160-18",
+                            "sizeNumber": 6,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 42,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 6,
+                    "weight": "13 bis 18 Kilo",
+                    "productType": "diapers"
+                },
+                {
+                    "quantity": 6,
+                    "isDefault": false,
+                    "quantityPerPack": 126,
+                    "isDefaultSize": false,
+                    "variants": [
+                        {
+                            "sku": "E323170-01",
+                            "sizeNumber": 7,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 39,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G326170-18",
+                            "sizeNumber": 7,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 46,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 7,
+                    "weight": "15+ Kilo",
+                    "productType": "diapers"
+                }
+            ]
+        },
+        {
+            "productTypeName": "pants",
+            "isSelectedByDefault": false,
+            "products": [
+                {
+                    "quantity": 6,
+                    "isDefault": true,
+                    "quantityPerPack": 150,
+                    "isDefaultSize": true,
+                    "variants": [
+                        {
+                            "sku": "E151140-01",
+                            "sizeNumber": 4,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 33,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G357140-18",
+                            "sizeNumber": 4,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 39,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 4,
+                    "weight": "9 bis 15 Kilo",
+                    "productType": "pants"
+                },
+                {
+                    "quantity": 6,
+                    "isDefault": false,
+                    "quantityPerPack": 126,
+                    "isDefaultSize": false,
+                    "variants": [
+                        {
+                            "sku": "E151150-01",
+                            "sizeNumber": 5,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 39,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G357150-18",
+                            "sizeNumber": 5,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 46,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 5,
+                    "weight": "12 bis 17 Kilo",
+                    "productType": "pants"
+                },
+                {
+                    "quantity": 6,
+                    "isDefault": false,
+                    "quantityPerPack": 114,
+                    "isDefaultSize": false,
+                    "variants": [
+                        {
+                            "sku": "E151160-01",
+                            "sizeNumber": 6,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 43,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G357160-18",
+                            "sizeNumber": 6,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 51,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 6,
+                    "weight": "15+ Kilo",
+                    "productType": "pants"
+                },
+                {
+                    "quantity": 6,
+                    "isDefault": false,
+                    "quantityPerPack": 102,
+                    "isDefaultSize": false,
+                    "variants": [
+                        {
+                            "sku": "E353170-01",
+                            "sizeNumber": 7,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 825,
+                                "regularPrice": 1100,
+                                "pricePerUnit": 49,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        },
+                        {
+                            "sku": "G357170-18",
+                            "sizeNumber": 7,
+                            "quantity": 6,
+                            "pricePerProduct": {
+                                "subscriptionPrice": 0,
+                                "discountedPrice": 975,
+                                "regularPrice": 1300,
+                                "pricePerUnit": 57,
+                                "pricePerPack": 0,
+                                "packCount": 1
+                            }
+                        }
+                    ],
+                    "sizeNumber": 7,
+                    "weight": "17+ Kilo",
+                    "productType": "pants"
+                }
+            ]
+        }
+    ],
+    "pricePerSubscription": {
+        "subscriptionPrice": 4950,
+        "discountedPrice": 4950,
+        "regularPrice": 6600,
+        "pricePerUnit": 0,
+        "pricePerPack": 6600,
+        "packCount": 1
+    }
+}

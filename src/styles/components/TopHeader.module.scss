@@ -1,0 +1,94 @@
+@import "../colors";
+@import "../fonts";
+
+
+.container{
+    display: none;
+    background-color: $dark_grey_variant;
+    height: 40px;
+    color: $light_gray_variant;
+    font-size: .875rem;
+    padding: 0 !important;
+    width: 100%;
+    margin: 0!important;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+@media (min-width: 760px){
+    .container {
+        display: flex;
+    }
+}
+
+.container--left{
+    display: flex;
+    flex-direction: row;
+    padding-left: 1.5rem;
+    height: 2.5rem;
+    align-items: center;
+}
+
+.container--left--img-1{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+}
+
+.container--left--img-1::after{
+    content: "";
+    height: 1.1rem;
+    width: 0.06rem;
+    transform: translateY(-50%);
+    background: #979797;
+    margin-left: 12px;
+    margin-top: 1rem;
+}
+
+.container--left--img-2{
+    opacity: 0.5;
+    display: flex;
+    position: relative;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.container--left--img-2::after{
+    content: "";
+    height: 1.1rem;
+    width: 0.06rem;
+    transform: translateY(-50%);
+    background: #979797;
+    margin-left: 12px;
+    margin-top: 1rem;
+    opacity: 1;
+}
+
+
+.container--meta-nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.container--meta-nav ul{
+    display: flex;
+    flex-direction: row;
+    margin-right: 1rem;
+    align-items: center;
+}
+
+.container--meta-nav li{
+    text-align: center;
+    padding: 0 12px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.container--list-last{
+padding-right: 1.5rem;
+}

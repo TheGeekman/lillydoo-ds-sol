@@ -1,0 +1,64 @@
+@import "../colors";
+@import "../fonts";
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    margin-top: 25px;
+    margin-bottom: 40px;
+}
+
+.copyright-text-wrapper{
+    p{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 20px;
+        font-family: $primary_font_family;
+    }
+}
+
+.logo-container--list{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0;
+
+    li{
+        margin-left: 5rem;
+    }
+}
+
+@media screen and (max-width:585px){
+    .container{
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+    .container > div{
+        width: 100%;
+        align-items: center;
+        display: flex;
+    }
+
+    .logo-container--list{
+        justify-content: space-between;
+        width: 100%;
+        padding: 0;
+    }
+    .logo-container--list li{
+        margin: 0;
+    }
+
+    .copyright-text-wrapper{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 1rem;
+    }
+}
