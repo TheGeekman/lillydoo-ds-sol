@@ -44,3 +44,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Please follow below steps to run project :
+
+1. Clone the repo.
+2. npm i : install the node modules
+3. npm start : to start or run the app
+4. npm test : To run the test cases
